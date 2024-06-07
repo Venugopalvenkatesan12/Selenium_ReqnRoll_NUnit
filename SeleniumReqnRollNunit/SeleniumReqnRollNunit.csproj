@@ -37,4 +37,8 @@
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Reports\HtmlReport\" />
+  </ItemGroup>
+
 </Project>
